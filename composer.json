@@ -1,15 +1,10 @@
 {
-    "name": "mwawrzyniak/leet-php",
+    "name": "leet-php/leet-php",
     "description": "exercise implemented in php",
     "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Mwawrzyniak\\LeetPhp\\": "src/"
-        }
-    },
-    "config": {
-        "platform": {
-            "php": "8.0"
         }
     },
     "license": "MIT",
